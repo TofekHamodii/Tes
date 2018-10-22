@@ -16,7 +16,7 @@ client.on('ready', function() {
 
 
 
-const developers = ["452379478618800129","",""]
+const developers = ["452379478618800129","","480945554445041665"]
 const adminprefix = "*";
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
